@@ -1,5 +1,18 @@
 ## Introduction
 
+My commit includes the 4 plots and 4 scripts that will create the plots. I know the grading rubric says that the four scripts should include the code for reading the data, but I disagree with that approach - repeating the same code over and over is not good coding practice as far as I know, and is contrary to the habits I've been taught to nourish. 
+
+Hence I have commited the reading code in a separate script called readdata.R  . The plotting scripts will load that code first, so for the user there is no difference. 
+
+I hope you are lenient and do not overly punish me for my rebelliousness.
+
+
+
+
+
+
+
+## Original text
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
